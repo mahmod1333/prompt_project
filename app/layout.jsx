@@ -1,7 +1,7 @@
 import Nav from "@Components/Nav";
 import Provider from "@Components/Provider";
 
-import "@Styles/globals.css";
+import "@styles/globals.css";
 export const metaData ={
 title: "Sty styles",
 description:"Desconizations for styles in a document"
