@@ -24,7 +24,7 @@ const Nav = () => {
                     alt='prompt logo'
                     width={30}
                     height={30}
-                    className='object-contain'
+                    className="object-contain"
                 />
                 <p className="logo_text">promotopia </p>
             </Link>
@@ -42,7 +42,7 @@ const Nav = () => {
                             alt='user profile'
                             width={37}
                             height={37}
-                            className='rounded-full'
+                            className="rounded-full"
                         />
                     </Link>
 
@@ -71,7 +71,7 @@ const Nav = () => {
                             alt='user profile'
                             width={37}
                             height={37}
-                            className='rounded-full'
+                            className="rounded-full"
                             onClick={() => (settoggleDropdawn((prev) => !prev))}
                         />
                         {toggleDropdawn &&
